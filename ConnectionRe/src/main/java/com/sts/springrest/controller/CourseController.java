@@ -21,6 +21,7 @@ import com.sts.springrest.services.CourseService;
 @RestController
 public class CourseController {
 
+	//adding comment to push 3rd 
 	@Autowired
 	private CourseService courseService;
 	
